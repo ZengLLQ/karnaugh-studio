@@ -1,0 +1,18 @@
+[package]
+name = "karnaugh-studio"
+version = "1.0.0"
+edition = "2024"
+authors = ["Karnaugh Studio Team"]
+description = "Interactive Karnaugh Map minimization and Boolean analysis desktop application"
+
+[dependencies]
+eframe = { version = "0.31", default-features = true }
+egui = "0.31"
+image = { version = "0.25", default-features = false, features = ["png"] }
+ico = "0.3"
+
+[build-dependencies]
+ico = "0.3"
+image = { version = "0.25", default-features = false, features = ["png"] }
+winres = "0.1"
+

@@ -1,0 +1,2 @@
+ec124b51f0213591e8d697e03c7ffe7e6e9d9acb8afd5f0bfaa589447ec762d0  KarnaughStudio.exe
+814c4d3631bdf39998cea8b33c0d6f86365dc57851e13d9884ad210c729cd2eb  KarnaughStudio-Setup.msi
